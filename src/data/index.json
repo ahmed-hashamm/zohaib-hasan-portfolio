@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/computer-vision.png",
+      "title": "Computer Vision",
+      "description": "As a data scientist with a strong focus on computer vision, I have developed and deployed numerous projects and models."
+    },
+    {
+      "id": "2",
+      "src": "./img/deep-learning.png",
+      "title": "Deep Learning",
+      "description": "I have developed several projects that focus on image classification, object detection and nueral networks."
+    },
+    {
+      "id": "3",
+      "src": "./img/machine-learning.jpg",
+      "title": "Machine Learning",
+      "description": "My abilities to apply various algorithms and techniques to solve real world problems like predictive modeling and NLP "
+    },
+    {
+      "id": "4",
+      "src": "./img/nueral-networks.jpg",
+      "title": "Nueral Networks",
+      "description": "Showcasing my skills in building nueral networks, convolutional nueral networks(CNNs) and recurrent nueral networks (RNNs)"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/project-1.png",
+      "title": "Instagram Reach Predictor",
+      "description": "This Jupyter notebook presents a comprehensive approach to predicting Instagram reach using the Passive Aggressive algorithm.",
+      "link": "https://github.com/zohaibhassan04/Insta_Reach_Prediction_Passive_Aggressive_Python.ipynb.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/project-2.png",
+      "title": "MachineLearning classifier accuracy Comparison",
+      "description": "Each algorithm is trained on the synthetic dataset, and its accuracy is evaluated to determine how effectively it can classify new data. By comparing these performance metrics, I aim to gain insights into the most effective algorithms for various conditions",
+      "link": "https://github.com/zohaibhassan04/MachineLearning_classifier_accuracy_comparison_Python.git"
+    },
+    {
+      "id": "3",
+      "src": "./img/project-3.png",
+      "title": "Molecule Soluility Predictor",
+      "description": "This project aims to predict the solubility of molecules using machine learning techniques implemented in Python. The model utilizes various molecular descriptors to determine the solubility, providing an essential tool for chemists and researchers in drug discovery and material science.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
